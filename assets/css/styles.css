@@ -2,9 +2,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.heading{
-    color: #5d5b6a;
-}
+
 /*Containers*/
 
 .container-wrapper--img{
@@ -64,7 +62,9 @@ color: #fff;
 
 /*Page headers*/
 
-
+.heading{
+    color: #5d5b6a;
+}
 
 
 
@@ -158,11 +158,11 @@ font-weight: bold;
 
 }
 
-.
+
 
 
 /*Footer*/
-footer{
+.footer{
     background-color: #637588;
     color:#fafafa;
     min-height: 120px;
