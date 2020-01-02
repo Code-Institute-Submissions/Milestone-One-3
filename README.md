@@ -34,9 +34,10 @@ by having a bio for the band, their music, photo's and booking form. </p>
 
 <h2>Skeleton</h2>
 
-![Wireframe](../images/wireframe.pdf)
+![Wireframe](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/fileexport/Export_Dc3be1382d7b6b18edb5ceaa2134f00f9.pdf)
 
-
+<h2>Surface</h2>
+<p> The turquoise color scheme was chosen to create a vintage jazz but modern feel.</p>
 
 # Technologies
 
@@ -47,4 +48,29 @@ by having a bio for the band, their music, photo's and booking form. </p>
 
 # Features
 
-<p>This Navbar</p>
+<p>The Navbar collapses when on a mobile device</p>
+
+<h2>Features Left to Implement</h2>
+
+<p>In the future, I would like to add more music from the band and possibly a band shop to promote them even more.</p>
+
+# Testing
+
+<p>This site was tested across multiple browsers and on multiple mobile devices to ensure compatibility and responsiveness.</p>
+
+# Deplopyment
+
+<p>This site is hosted using GitHub pages, deployed directly from the master branch. This live site will update automatically every time there is a new push to the repository.</p>
+
+# Credits
+
+<h2>Content</h2>
+
+<p>All content in the bio section was written by the band Ger , Steve and Siobhan. All other content was written by me.</p>
+
+<h2>Media</h2>
+
+<p>All photos were taken from </p>
+
+
+
