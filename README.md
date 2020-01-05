@@ -8,7 +8,7 @@ The wesbite showcases their Music, Bio, Photos and a booking form.
 
 # Demo 
 
-<p>A live demo can be found [here](https://link)</p>
+[Live demo here](https://https://liam-gosnell.github.io/Milestone-One)
 
 
 # UX
@@ -34,7 +34,7 @@ by having a bio for the band, their music, photo's and booking form. </p>
 
 <h2>Skeleton</h2>
 
-<a href="wireframe.pdf">Wireframegit pu</a>
+<img src="../assets/images/wireframe.pdf" alt="Wire frame">
 
 
 
@@ -87,6 +87,6 @@ container to show the text clearly.
 
 <h3>Acknowledgements</h3>
 
-<p>The booking form was found from <a href="https://bootsnipp.com/snippets/qr1zR">This site</a>
+<p>The booking form was found from <a href="https://bootsnipp.com/snippets/qr1zR">This site</a>.
 The collapsed navbar was taken from the Code Institute tutorial on bootstrap.
  </p>
