@@ -34,7 +34,7 @@ by having a bio for the band, their music, photo's and booking form. </p>
 
 <h2>Skeleton</h2>
 
-![wireframe](https://)
+<a href="wireframe.pdf">Wireframe</a>
 
 
 
