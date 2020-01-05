@@ -34,7 +34,7 @@ by having a bio for the band, their music, photo's and booking form. </p>
 
 <h2>Skeleton</h2>
 
-<a href="wireframe.pdf">Wireframe</a>
+<a href="wireframe.pdf">Wireframegit pu</a>
 
 
 
@@ -67,7 +67,7 @@ I would aslo like to add more interactive features when I am more familiar with 
 In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.</p>
 
 <p>To run locally, you can clone this repository directly into the editor of your choice 
-by pasting git clone  https://liam-gosnell.github.io/Milestone-One/ into your terminal. 
+by pasting git clone  "https://liam-gosnell.github.io/Milestone-One/" into your terminal. 
 To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 </p>
 
