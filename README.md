@@ -8,7 +8,7 @@ The wesbite showcases their Music, Bio, Photos and a booking form.
 
 # Demo 
 
-A live demo can be found [here](https://https://liam-gosnell.github.io/Milestone-One).
+A live demo can be found [here](https://liam-gosnell.github.io/Milestone-One/).
 
 
 # UX
@@ -34,9 +34,9 @@ by having a bio for the band, their music, photo's and booking form. </p>
 
 <h2>Skeleton</h2>
 
-[About wireframe](https://https://liam-gosnell.github.io/Milestone-One/blob/master/wireframes/wireone.png)
 
 
+![About wireframe](https://https://liam-gosnell.github.io/Milestone-One/blob/master/wireframes/wireone.png "About wireframe")
 
 
 # Technologies
