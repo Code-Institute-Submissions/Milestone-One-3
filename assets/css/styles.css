@@ -3,6 +3,20 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.para{
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.figure{
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+}
+
 /*Containers*/
 
 .container-wrapper--img{
@@ -94,6 +108,14 @@ color: #fff;
     padding-bottom:75px;
 }
 
+.skill-row{
+  width:90%;
+  margin: 100px auto 100px auto;
+   text-align: center;
+
+
+}
+
 /*Navbar*/
 
 .nav-container{
@@ -146,19 +168,6 @@ font-weight: bold;
     font-style: italic;
     color:#d0d0d0;
 }
-
-
-
-
-.skill-row{
-  width:90%;
-  margin: 100px auto 100px auto;
-   text-align: center;
-
-
-}
-
-
 
 
 /*Footer*/
