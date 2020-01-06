@@ -36,7 +36,7 @@ by having a bio for the band, their music, photo's and booking form. </p>
 
 
 
-![About wireframe](https://https://liam-gosnell.github.io/Milestone-One/blob/master/wireframes/wireone.png "About wireframe")
+![About wireframe](https://raw.githubusercontent.com/Liam-gosnell/Milestone-One/master/wireframes/wireone.png "About wireframe")
 
 
 # Technologies
