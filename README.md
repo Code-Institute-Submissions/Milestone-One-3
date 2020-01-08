@@ -91,3 +91,7 @@ container to show the text clearly.
 <p>The booking form was found from <a href="https://bootsnipp.com/snippets/qr1zR">This site</a>.
 The collapsed navbar was taken from the Code Institute tutorial on bootstrap.
  </p>
+
+ <p>The audio player was taken from  <a href="https://www.w3schools.com/tags/tag_audio.asp">This site</a>.
+
+ </p>
