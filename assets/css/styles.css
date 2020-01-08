@@ -6,6 +6,7 @@ body{
 .para{
     text-align: justify;
     line-height: 1.5;
+    color: #5e8994 !important;
 }
 
 .figure{
@@ -15,7 +16,7 @@ body{
     align-content: center;
     align-items: center;
 }
-}
+
 
 /*Containers*/
 
@@ -66,7 +67,8 @@ color: #fff;
 }
  
  .about-container{
-
+     padding-top:75px;
+padding-bottom:0;
  }
 
  .work-container{
@@ -178,7 +180,7 @@ font-weight: bold;
     margin:0;
 }
 .social-links{
-padding-bottom: 15px;
+
 
 }
 
@@ -213,7 +215,9 @@ padding:20px;
    
 }
 
-
+.audio{
+    margin-bottom: 30px;
+}
 
 
 
